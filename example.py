@@ -1,4 +1,4 @@
-from sutterMP285 import Sutter
+from sutter285 import Sutter
 from time import time, sleep
 from itertools import cycle
 from threading import Timer
